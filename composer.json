@@ -21,7 +21,7 @@
         "ext-gd": "*",
         "symfony/http-kernel": "2.7.3",
         "symfony/config": "2.7.3",
-        "symfony/dependency-injection": "2.7.3",
+        "symfony/dependency-injection": "2.7.51",
         "symfony/validator": "2.7.3",
         "symfony/filesystem": "2.7.3",
         "symfony/finder": "2.7.3",
